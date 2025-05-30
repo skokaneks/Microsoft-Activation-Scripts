@@ -47,13 +47,6 @@ or
 
 </details>
 
----
-
-- **[Office for macOS](https://massgrave.dev/office_for_mac)**
-- To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
-
----
-
 ### Not working ❓
 
 - If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
@@ -70,49 +63,3 @@ or
 
 ---
 
-```
-Latest Version: 3.2
-Release date: 6-May-2025
-```
-
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
-
-<div align="center">
-  
-[![1.1]][1]
-[![1.2]][2]
-[![1.3]][3]
-
-</div>
-
-<div align="center">
-  
-[![1.4]][4]
-[![1.5]][5]
-[![1.6]][6]
-[![1.7]][7]
-
-</div>
-
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.3]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
-
-[1.4]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.7]: https://massgrave.dev/img/logo_x.png (Twitter)
-
-[1]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
-[7]: https://twitter.com/massgravel
-
----
-
-<p align="center">Made with Love ❤️</p>
