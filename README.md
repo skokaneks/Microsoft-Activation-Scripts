@@ -17,15 +17,9 @@
        ```
        irm https://get.activated.win | iex
        ```
-Alternatively, you can use the following (this will be deprecated in the future):  
-```
-irm https://massgrave.dev/get | iex
-```
-
 3.   You will see the activation options.  
-	   Press 1 HWID for Windows activation.  
-     Press 2 Ohook for Office activation.
-
+       Press 1 HWID for Windows activation.  
+       Press 2 Ohook for Office activation.
 4.   That's all
 
 ---
